@@ -184,11 +184,3 @@ The project can be enhanced by adding:
 * 🌍 Automatic currency selection based on country
 
 ---
-
-## ⚠️ Disclaimer
-
-This project uses **predefined exchange rates** and is intended for **educational purposes only**.
-
-Exchange rates in real financial markets change frequently, so the values used by this application should not be used for actual financial transactions.
-
----
